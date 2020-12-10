@@ -1,0 +1,10 @@
+https://qiita.com/takayu90/items/9e3d34f530c5f35e6137
+https://revealjs.com/api/
+https://revealjs.com/plugins/
+https://revealjs.com/markdown/
+https://revealjs.com/auto-slide/
+https://revealjs.com/backgrounds/#parallax-background
+https://revealjs.com/keyboard/
+https://revealjs.com/pdf-export/
+https://revealjs.com/speaker-view/
+https://revealjs.com/auto-animate/
