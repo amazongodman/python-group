@@ -1,5 +1,9 @@
 # read me 
 
+https://qiita.com/tomochiii/items/8b937f15c79a0c3eae0e
+
+
+
 conda create -n tf2 python=3.7  
 
 conda activate tf2  
